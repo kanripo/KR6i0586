@@ -1,0 +1,5 @@
+001-0416a00	X 001-0416a	buddhist/X-xuzang/X01/04/X01-0416.png
+001-0416b00	X 001-0416b	buddhist/X-xuzang/X01/04/X01-0416.png
+001-0416c00	X 001-0416c	buddhist/X-xuzang/X01/04/X01-0416.png
+001-0417a00	X 001-0417a	buddhist/X-xuzang/X01/04/X01-0417.png
+001-0417b00	X 001-0417b	buddhist/X-xuzang/X01/04/X01-0417.png
